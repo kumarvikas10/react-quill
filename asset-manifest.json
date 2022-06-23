@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-quill/static/css/main.072920a6.css",
+    "main.js": "/react-quill/static/js/main.e2a68dc8.js",
+    "index.html": "/react-quill/index.html",
+    "main.072920a6.css.map": "/react-quill/static/css/main.072920a6.css.map",
+    "main.e2a68dc8.js.map": "/react-quill/static/js/main.e2a68dc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.072920a6.css",
+    "static/js/main.e2a68dc8.js"
+  ]
+}
